@@ -16,6 +16,6 @@ Salifort wants to create a corporate culture that supports employee success and 
 
 ### Data Understanding
 The data consists of 14,999 rows and 10 features. The features satisfaction level, last evaluation, and average monthly hours. The bar chart shows the percentage of employees retained vs. those who left.
-![alt text](https://github.com/lhdatalab/googleadvanced_da/blob/main/Employee_percentage.png?raw=true)
+![Employee left and retained percentage](https://github.com/lhdatalab/googleadvanced_da/blob/main/Employee_percentage.png?raw=true)
 
 
