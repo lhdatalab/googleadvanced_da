@@ -24,3 +24,12 @@ The below feature importance plot showed the top 5 important ones are satisfacti
 The model had  a performacne of 95.6% F1 score.
 ![Random forest feature importance](https://github.com/lhdatalab/googleadvanced_da/blob/main/Feature_importance.png?raw=true)
 
+### Conclusion
+The model will help Salifort Motors determine if an employee will leave or not.
+To reduce turnover stakeholders can:
+- Establish a policy where employees work reasonable hours to prevent them from becoming  overworked burnout.
+- Ensure employees work 3-4 projects at a time instead of 7.
+- Create an overtime with pay      policy, so employees are compensated for their time.  Make sure the hours are limited, so employees don't become overworked.
+- Implement a survey to find out why employees are satisfied or why they are not.
+- Instead of predicting who is likely to leave, predict satisfaction level of employees.
+
