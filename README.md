@@ -12,4 +12,6 @@ The final model chosen was random forest with an F1 score of 95.6%, 98.5% precis
 Important features in determining the employees leaving the company are satisfaction levels, number of projects, last evaluation, tenure, and average monthly hours.
 
 ### Business Understanding
+Salifort wants to create a corporate culture that supports employee success and professional development. However, currently there is a high turnover rate of employees. This high turnover rate is financially costly as the company makes a big investment in recruiting, training, and upskilling its employees. It is important to understande what causes employees to leave the company.
 
+### 
