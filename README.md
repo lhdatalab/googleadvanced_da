@@ -20,7 +20,7 @@ According to LinkedIn, [employee turnover rate](https://www.linkedin.com/busines
 ![Employee left and retained percentage](https://github.com/lhdatalab/googleadvanced_da/blob/main/Employee_percentage.png?raw=true)
 
 The employees are overworked. Those working on 6 or 7 projects worked 240 hours or more monthly and left the company.
-![Monthly hours by number of projects]()
+![Monthly hours by number of projects](https://github.com/lhdatalab/googleadvanced_da/blob/main/Boxplot_monthlyhours_numberprojects.png?raw=true)
 
 ### Modeling and Evaluation
 A random forest model was used to determine feature importance in which employees would leave the company.
