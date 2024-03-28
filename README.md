@@ -15,7 +15,8 @@ Important features in determining the employees leaving the company are satisfac
 Salifort wants to create a corporate culture that supports employee success and professional development. However, currently there is a high turnover rate of employees. This high turnover rate is financially costly as the company makes a big investment in recruiting, training, and upskilling its employees. It is important to understande what causes employees to leave the company.
 
 ### Data Understanding
-The data consists of 14,999 rows and 10 features. The features satisfaction level, last evaluation, and average monthly hours. The bar chart shows the percentage of employees retained vs. those who left.
+The data consists of 14,999 rows and 10 features. The features satisfaction level, last evaluation, and average monthly hours. 
+According to LinkedIn, [employee turnover rate](https://www.linkedin.com/business/talent/blog/talent-strategy/industries-with-the-highest-turnover-rates) (July, 2021 - June 2022) is 10.6%. Salifort Motors rate is 17%, therefore it is pretty high. The bar chart shows the percentage of employees retained vs. those who left.
 ![Employee left and retained percentage](https://github.com/lhdatalab/googleadvanced_da/blob/main/Employee_percentage.png?raw=true)
 
 ### Modeling and Evaluation
