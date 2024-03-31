@@ -19,7 +19,12 @@ The data consists of 14,999 rows and 10 features. The features satisfaction leve
 According to LinkedIn, [employee turnover rate](https://www.linkedin.com/business/talent/blog/talent-strategy/industries-with-the-highest-turnover-rates) (July, 2021 - June 2022) is 10.6%. Salifort Motors rate is 17%, therefore it is pretty high. The bar chart shows the percentage of employees retained vs. those who left.
 ![Employee left and retained percentage](https://github.com/lhdatalab/googleadvanced_da/blob/main/Employee_percentage.png?raw=true)
 
-The employees are overworked. Those working on 6 or 7 projects worked 240 hours or more monthly and left the company.
+Working 50 weeks a year (2 weeks vacation) at 40 hours a week results in 50 * 40/12 = 166.7 hours a month.
+![Monthly hours by employee left and retained](https://github.com/lhdatalab/googleadvanced_da/blob/main/Boxplot_monthlyhours_leftretained.png?raw=true)
+
+On average employees work 200 hours a month. They are overworked.
+
+Those working on 6 or 7 projects worked 240 hours or more monthly and left the company.
 ![Monthly hours by number of projects](https://github.com/lhdatalab/googleadvanced_da/blob/main/Boxplot_monthlyhours_numberprojects.png?raw=true)
 
 ### Modeling and Evaluation
