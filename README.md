@@ -24,9 +24,6 @@ Working 50 weeks a year (2 weeks vacation) at 40 hours a week results in 50 * 40
 
 On average employees work 200 hours a month. They are overworked.
 
-Those working on 6 or 7 projects worked 240 hours or more monthly and left the company.
-![Monthly hours by number of projects](https://github.com/lhdatalab/googleadvanced_da/blob/main/Boxplot_monthlyhours_numberprojects.png?raw=true)
-
 ### Modeling and Evaluation
 A random forest model was used to determine feature importance in which employees would leave the company.
 The below feature importance plot showed the top 5 important ones are satisfaction level, number project, last evaluation, tenure, and average monthly hours.
